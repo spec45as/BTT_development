@@ -1,0 +1,1 @@
+krane.exe source/anim.bin source/build.bin result
