@@ -1,0 +1,4 @@
+{sound
+	{signal movement 13}
+	{SignalPeriod 1}
+}

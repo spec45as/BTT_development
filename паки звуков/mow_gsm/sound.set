@@ -1,0 +1,23 @@
+{sound
+	{percent "effects" 60}
+	{percent "emotions" 15 2}
+	{percent "speech" 10 1}
+	{percent "environment" 20}
+	{percent "main_environment" 10}
+
+	{loudness "default" 20 150}	; minDistance maxDistance (meters) priority
+	{loudness "local environment" 15 30}
+	{loudness "footstep" 7 30 10}
+	{loudness "shoot muted" 7 50 10}
+	{loudness "shoot normal" 15 150 20}
+	{loudness "shoot loud" 35 350 30}
+	{loudness "reload" 5 50 10}
+	{loudness "whizz" 10 30 10}
+	{loudness "hit" 15 50 15}
+	{loudness "blast small" 20 300 25}
+	{loudness "blast big" 40 300 40}
+	{loudness "turret" 10 80}
+	{loudness "talk" 20 50}
+   	{loudness "canonade" 400 1000}
+   	{loudness "air attack" 400 1000 50}
+}
